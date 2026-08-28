@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ASHMEET\\Documents\\Projects\\dcRPCspoofer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ASHMEET\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ASHMEET\\Documents\\Projects\\dcRPCspoofer\\app\\.cxx\\Debug\\14w1yb6m\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ASHMEET\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ASHMEET\\Documents\\Projects\\dcRPCspoofer\\app\\.cxx\\Debug\\14w1yb6m\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "discord-rpc::@6890427a1f51a3e7e1df": {
+      "artifactName": "discord-rpc",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\ASHMEET\\Documents\\Projects\\dcRPCspoofer\\app\\build\\intermediates\\cxx\\Debug\\14w1yb6m\\obj\\arm64-v8a\\libdiscord-rpc.so",
+      "runtimeFiles": []
+    }
+  }
+}
