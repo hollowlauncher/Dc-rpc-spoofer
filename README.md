@@ -18,7 +18,6 @@ This project provides a native Android implementation of the legacy `discord-rpc
   - `discord-rpc/`: Patched source of the official `discord-rpc` library.
   - `thirdparty/rapidjson/`: Header-only JSON library for IPC frames.
 - `app/src/main/jniLibs/`: Prebuilt `.so` binaries for easy integration.
-- `DiscordRPC.java`: Example/Drop-in JNA interface to load and call the native library.
 
 ## Getting Started
 
